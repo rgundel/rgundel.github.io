@@ -1,1 +1,3 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+# Reader File for GitHub Page
+
+This is the source code is a modified version from Jon Barron's public academic website: [jonbarron.info](https://jonbarron.info/). Feel free to clone this code for your own personal use. Another version that I’ve used for idea inspiration is from Karl Pertsch ([kpertsch.github.io](https://kpertsch.github.io/)).
