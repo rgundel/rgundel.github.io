@@ -124,6 +124,16 @@ span.highlight {
         list-style-type: disc;
     }
 
+/* New Section Style */
+.new-section3 {
+    padding: 20px;
+    background-color: #eec5c5fb;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(109, 18, 104, 0.274);
+    margin: 20px auto;
+    max-width: 800px;
+}
+
     /* Bounding Box for References */
 .reference-box {
     border: 2px solid #007acc; /* Blue border for visual grouping */
